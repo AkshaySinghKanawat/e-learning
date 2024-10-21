@@ -77,10 +77,12 @@ const Footer = () => {
               </button>
             </div>
             {/* social icons */}
-            
           </div>
         </div>
       </motion.div>
+      <h6 className="text-center text-dark2 font-semibold tracking-wider">
+        Developed By <a href="https://www.linkedin.com/in/akshay-singh-kanawat/" className="text-dark">Akshay Singh</a>{" "}
+      </h6>
     </footer>
   );
 };
